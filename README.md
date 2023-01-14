@@ -1,7 +1,7 @@
 # Projects
 Repository of coding projects for school or personal use.
 
-Project Descriptions:
+<ins>Project Descriptions</ins>:
 
 World Bank Indicators Project - Created for a graduate course to isolate fields of interest in The World Bank's World Development Indicators dataset for visual display and analysis in Tableau. 
 
